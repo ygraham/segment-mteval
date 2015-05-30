@@ -107,7 +107,11 @@ You'll be prompted to upload a csv file. Upload the following file:
 After HIT completion:
 ------------------------------------------------------------------------------
 
-Download the batch file of results from MTurk and place in folder:
+Go to directory 
+
+    ../proc-hits
+
+Download the batch file of hits from MTurk and place in folder:
 
     ./batched-hits
 
