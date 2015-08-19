@@ -67,10 +67,7 @@ where your image files are located. The original url looks like this:
 
 In your MTurk requester account, go to
 
-    "Create",
-    "New Project",
-    "Other",
-    "Create Project".
+    > "Create" > "New Project" > "Other" > "Create Project"
 
 Give your project a "Project Name", you can edit the other details in later.
 Click on the
@@ -115,7 +112,7 @@ Download the batch file of hits from MTurk and place in folder:
 
     ./batched-hits
 
-They files should be named, e.g.:
+The files should be named, e.g.:
 
     ./batched-hits/Batch_1234_batch_results.csv
 
