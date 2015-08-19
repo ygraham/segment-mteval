@@ -63,7 +63,7 @@ Next, edit the MTurk source file:
 so that the url in the MTurk code matches the urls of the public directory
 where your image files are located. The original url looks like this:
 
-    http://scss.tcd.ie/~ygraham/mturk-img";
+    http://scss.tcd.ie/~ygraham/mturk-img
 
 In your MTurk requester account, go to
 
