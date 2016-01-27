@@ -128,7 +128,7 @@ the following:
 
 There are 4 ways a worker can be flagged, here's how to interpret:
 
-    flag(scrs) : mean scores for badref / genuine system output / ref items very close
+    flag(scrs) : mean scores for badref / genuine system output / ref items very close OR ref item scores suspiciously low 
     flag(time) : time taken to complete a hit very short
     flag(seq)  : the worker gave constant ratings for a long sequence of translations at least once in the hit
     flag(rej)  : hits from this worker have previously been rejected
