@@ -2,6 +2,7 @@ rdir=batched-hits
 wdir=analysis
 
 mkdir $wdir
+mkdir out
 
 perl hits2r.pl ad $rdir $wdir > $wdir/ad-latest.csv
 wc -l $wdir/ad-latest.csv
